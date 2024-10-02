@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "cac7cad2-f6da-4844-a2fe-538ba38d18ec")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 40.64 26.67)
+		(size 24.13 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0a5a2978-3237-4be4-aa92-f39f3066b986")
+		(property "Sheetname" "Ethernet"
+			(at 40.64 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ethernet.kicad_sch"
+			(at 40.64 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MCU_Unit"
+				(path "/cac7cad2-f6da-4844-a2fe-538ba38d18ec"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.275 51.435)
+		(size 23.495 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5be205a2-3f34-4958-95f9-21dae9c52442")
+		(property "Sheetname" "7seg_LED"
+			(at 41.275 50.7234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "7seg.kicad_sch"
+			(at 41.275 64.7196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MCU_Unit"
+				(path "/cac7cad2-f6da-4844-a2fe-538ba38d18ec"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.97 27.305)
+		(size 17.78 14.605)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "60d1a034-eeca-4df7-8a32-a1c5dd4b6d0d")
+		(property "Sheetname" "powerinput"
+			(at 140.97 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powerinput.kicad_sch"
+			(at 140.97 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MCU_Unit"
+				(path "/cac7cad2-f6da-4844-a2fe-538ba38d18ec"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.8124 51.8668)
+		(size 27.5844 12.827)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "93581e54-d44d-4e8f-a1eb-dad2d45e83e9")
+		(property "Sheetname" "any_connect"
+			(at 73.8124 51.1552 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "any_connect.kicad_sch"
+			(at 73.8124 65.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MCU_Unit"
+				(path "/cac7cad2-f6da-4844-a2fe-538ba38d18ec"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.66 26.67)
+		(size 27.94 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7634943-a1ac-4a69-825a-178a1227e874")
+		(property "Sheetname" "MCU"
+			(at 73.66 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 73.66 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MCU_Unit"
+				(path "/cac7cad2-f6da-4844-a2fe-538ba38d18ec"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
